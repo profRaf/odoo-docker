@@ -1,4 +1,4 @@
-To successfully deploy this **Odoo Docker Lab**, you need to have **Git, Visual Studio Code, and Docker Desktop** installed. Each tool plays a crucial role in setting up, managing, and deploying your environment. Here’s why each prerequisite is important:
+To successfully deploy this **Odoo Docker Lab**, we recommend to have **Git, Visual Studio Code, and Docker Desktop** installed. Each tool plays a crucial role in setting up, managing, and deploying your environment. Here’s why each prerequisite is important:
 
 ---
 
@@ -64,7 +64,3 @@ To successfully deploy this **Odoo Docker Lab**, you need to have **Git, Visual 
 Without **Git**, you won’t be able to clone and track your code.  
 Without **VS Code**, managing and editing the setup will be harder.  
 Without **Docker Desktop**, you can’t run Odoo in an isolated environment.  
-
-Once all three are installed and configured, you can **successfully deploy your Odoo Docker Lab!** 🚀  
-
-Let me know if you need further clarification!
